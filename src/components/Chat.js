@@ -1,4 +1,3 @@
-// Chat.js
 import React, { useState, useEffect, useRef } from 'react';
 import { View, ScrollView, Dimensions } from 'react-native';
 import MessageList from './MessageList';

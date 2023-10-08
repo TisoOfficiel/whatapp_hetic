@@ -1,4 +1,3 @@
-// MessageInput.js
 import React, { useState } from 'react';
 import { View, TextInput, Button } from 'react-native';
 import styles from '../assets/style/stylesheet';
